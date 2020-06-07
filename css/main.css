@@ -1,0 +1,111 @@
+@charset "utf-8";
+/* CSS Document */
+*{
+	margin: 0px;
+	padding: 0px;
+}
+	
+header, section, footer, aside, nav, article, hgroup{
+	display: block;
+}
+
+p{
+	color: #575757;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+body{
+	text-align: center;
+}
+
+#big_wrapper{
+	width: 1000px;
+	margin: 20px auto;
+	text-align: left;
+}
+
+h1{
+	font-weight:100;
+}
+
+#logo{
+	padding: 10px;
+	background: #3F64C8;
+	font-family: Tahoma;
+	color: #FFFFFF;
+}
+
+#menu{
+	color: #6D6D6D;
+	font-family: Tahoma;
+	font-size: 20px;
+	text-align: center;
+}
+
+#menu li{
+	display: inline-block;
+	list-style: none;
+	padding: 5px;
+}
+
+#login{
+	border: 2px solid #BEBEBE;
+	padding: 20px;
+	float: left;
+	width: 370px;
+	margin: 30px;
+}
+
+#login header{
+	color: red;
+	font-size: 16px;
+	font-family: Tahoma;
+	text-align: center
+}
+
+#input_box{
+	font-family: Arial;
+	line-height: 20px;
+}
+
+input{
+	padding: 5px;
+	float: right;
+}
+
+#register{
+	border: 2px solid #BEBEBE;
+	padding: 20px;
+	float: right;
+	width: 370px;
+	margin: 30px;
+}
+
+#register header{
+	color: blue;
+	font-size: 16px;
+	font-family: Tahoma;
+	text-align: center
+}
+
+#Info-box{
+        background-color:#DC143C;
+        color:white;
+        font-weight:bold;
+        text-align:center;
+}
+
+#message-box{
+	background-color:#ADFF2F;
+        color:white;
+        font-weight:bold;
+        text-align:center;
+}
+
+#web_footer{
+	 clear: both;
+	 text-align: center;
+	 padding: 20px;
+	 border-top: 1px solid black;
+	 border-bottom: 1px solid black;
+}

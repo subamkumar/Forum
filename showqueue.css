@@ -1,0 +1,53 @@
+#main_box{
+	//border:1px solid red;
+	width:1000px;
+	margin-left:200px;
+}
+
+#a_title{
+	font-weight:bold;
+	font-family:tahoma;
+	color:#9ACD32;
+	font-family:sans-serif;
+}
+
+#m_box{
+	border:1px solid orange;
+	padding:5px;
+	margin-top:5px;
+	border-radius:5px;
+}
+
+#a_desc{
+	//font-weight:bold;
+	font-family:tahoma;
+	color:#00008B;
+	//border:1px solid red;
+	width:500px;
+	word-wrap:break-word;
+}
+
+#reply_area{
+	resize:none;
+	width:600px;
+	height:80px;
+	font-family:sans-serif;
+	padding:5px;
+	font-weight:bold;
+	margin-left:10px;
+}
+
+#reply_button{
+	padding:5px;
+	font-weight:bold;
+	margin-left:10px;
+}
+
+#author_l{
+	text-decoration:none;
+	font-size:18px;
+}
+#author_l:hover{
+	text-decoration:underline;
+	font-weight:bold;
+}

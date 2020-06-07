@@ -1,0 +1,32 @@
+#m_box{
+	border:1px solid grey;
+	margin-top:5px;
+	border-radius:5px;
+	padding:5px;
+	
+}
+
+#a_link{
+	text-decoration:none;
+	color:#ff8000;
+}
+
+#a_link:hover{
+	text-decoration:underline;
+}
+
+#m_title{
+	font-weight:bold;
+	font-family:tahoma;
+	font-size:18px;
+	color:#3F64C8;
+	padding:5px;
+}
+
+#rep_data{
+	color:#007fff;
+}
+
+#textarea{
+	resize:none;
+}

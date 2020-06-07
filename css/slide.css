@@ -1,0 +1,37 @@
+@charset "utf-8";
+/* CSS Document */
+
+#slide_show{
+	clear: both;
+}
+
+#img{
+	height:400px;
+	width:800px;
+	margin-left: 100px;
+}
+
+#left_arrow{
+	display: inline;
+	float:left;
+	margin-top: 200px;
+}
+
+#right_arrow{
+	float:right;
+	display: inline;
+	margin-right: 50px;
+	margin-top: 200px;
+}
+
+.left{
+	height:50px;
+	width:50px;
+	position:absolute;
+}
+
+.right{
+	height:50px;
+	width:50px;
+	position:absolute;
+}
